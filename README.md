@@ -6,3 +6,6 @@ Van Geen's research in Araihazar, Bangladesh, demonstrated that simply testing w
 Despite the low-cost and effectiveness, 40% of the population still continued using polluted wells. Most households in the Araihazar region are within 100 meters of a safe well, suggesting that awareness alone might not be enough for everyone.
 
 This project aims to build a predictive model using demographic and behavioral data to identify those unlikely to switch to safer wells even after awareness campaigns. Four machine learning models will be evaluated to determine the best one for predicting this behavior, optimizing the approach to reduce arsenic poisoning in Bangladesh effectively.
+
+Van Geen's Research: https://www.sciencedirect.com/science/article/abs/pii/S030438780600201X
+Dataset used: http://www.stat.columbia.edu/~gelman/arm/examples/arsenic/wells.dat
